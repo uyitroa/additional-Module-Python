@@ -79,7 +79,7 @@ def day_passed(g,timeQues): #Function to check if x day passed since timeQues
 
 	return False
 
-#if __name__ == '__main__':
-#	tim = "Fri Dec 31 2016"
-#	print day_passed(10,tim)
+if __name__ == '__main__':
+	tim = "Fri Dec 31 2016"
+	print day_passed(10,tim)
 #	speak("Just do it, i don't even know if it gonna work or not, i just hope that gonna be fine at the moment", 0.1)
